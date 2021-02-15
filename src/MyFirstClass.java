@@ -5,6 +5,11 @@ public class MyFirstClass {
 		System.out.println("My First hit Hub project");
 		
 		System.out.println("My First hit Hub project Pull Request" );
+		
+		System.out.println("My First hit Hub project New Branch Request" );
+
+		System.out.println("My First hit Hub project with 2nd New Branch Request" );
+
 
 	}
 
